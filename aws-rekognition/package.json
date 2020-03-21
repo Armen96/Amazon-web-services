@@ -1,0 +1,25 @@
+{
+  "name": "aws-rekognition",
+  "version": "1.0.0",
+  "description": "Simple application example, using Node Js and API Amazon Rekognition.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Armen Barsegyan",
+  "license": "GNU",
+  "devDependencies": {
+    "aws-sdk": "2.254.1",
+    "body-parser": "1.18.3",
+    "cookie-parser": "1.4.3",
+    "express": "4.16.3",
+    "fs-extra": "6.0.1",
+    "node-uuid": "1.4.8",
+    "path": "0.12.7"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.1.6"
+  }
+}
