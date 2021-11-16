@@ -10,7 +10,7 @@
   "author": "Armen Barsegyan",
   "license": "GNU",
   "devDependencies": {
-    "aws-sdk": "2.254.1",
+    "aws-sdk": "2.814.0",
     "body-parser": "1.18.3",
     "cookie-parser": "1.4.3",
     "express": "4.16.3",
